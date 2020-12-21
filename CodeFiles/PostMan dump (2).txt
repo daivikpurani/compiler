@@ -1,0 +1,23 @@
+ {
+            "language": "cpp",
+            "fileName": "main.cpp",
+            "code": "I2luY2x1ZGU8Yml0cy9zdGRjKysuaD4NCnVzaW5nIG5hbWVzcGFjZSBzdGQ7DQoNCg0KaW50IG1haW4oKQ0Kew0KICAgIHN0cmluZyBzIDsNCiAgICBjaW4gPj4gczsNCiAgICBjb3V0IDw8IHM7DQogICAgDQogICAgcmV0dXJuIDA7DQp9DQo=",
+            "input": "works"
+}
+
+  {
+            "language": "cpp",
+            "rootFileName": "main.cpp",
+            "body": {
+                "file1":{
+                    "fileName":"file1", 
+                    "code":"I2luY2x1ZGU8Yml0cy9zdGRjKysuaD4NCnVzaW5nIG5hbWVzcGFjZSBzdGQ7DQoNCg0KaW50IG1haW4oKQ0Kew0KICAgIHN0cmluZyBzIDsNCiAgICBjaW4gPj4gczsNCiAgICBjb3V0IDw8IHM7DQogICAgDQogICAgcmV0dXJuIDA7DQp9DQo="
+                },
+            
+                 "file2":{
+                    "fileName":"file2", 
+                    "code":"I2luY2x1ZGU8Yml0cy9zdGRjKysuaD4NCnVzaW5nIG5hbWVzcGFjZSBzdGQ7DQoNCg0KaW50IG1haW4oKQ0Kew0KICAgIHN0cmluZyBzIDsNCiAgICBjaW4gPj4gczsNCiAgICBjb3V0IDw8IHM7DQogICAgDQogICAgcmV0dXJuIDA7DQp9DQo="
+                }    
+            },
+            "input": "works"
+}
